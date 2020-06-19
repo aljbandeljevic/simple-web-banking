@@ -12,11 +12,11 @@ SIMPLE WEB BANKING Application using HTML, CSS, PHP, JavaScript, MySQL, BootStra
 on this database
 4. Run the application
 
-#Login Credentials for testing
-#If you do not want to create an user account test with 
-#------------------------------------
-#-User Login: ** 'user''user' **
-#-Administration Login: ** 'admin''admin' ** 
-#--------------------------------------------
+-----------------------------------
 
+#Login Credentials for testing
+1. Administration Panel: admin/admin
+2. Customer: user/user
+
+------------------------------------
 
